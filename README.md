@@ -190,7 +190,7 @@ Add screenshots here for better presentation:
 
 ## Author
 
-Adarsh Dubey
+Adarsh Dubey |
 Master of Computer Application (MCA) |
 TIMSCDR | University of Mumbai
 
