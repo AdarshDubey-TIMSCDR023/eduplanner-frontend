@@ -17,8 +17,9 @@ The system enables real-time task operations including creation, updating, delet
 ---
 
 ## System Architecture
-
-
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOF-Bh8h49WsREUx5sfUsz1_hIyZPCXBGOIWkB1xyiocHCZjrcrtvCccINxe6VCOkJ6dk2YwBn9VlF0gWHl63xFee-6qlcNVnZ9pmVbg1i3rTPYe_7YOGSR10HyZhrb_vjxzVfKCEHKk8xEEguP4caj3TM7VIt9CPnzeV-6wPHFREPLDUDGpAAu-nfHdY/w640-h426/ChatGPT%20Image%20May%203,%202026,%2009_00_15%20PM.png" width="900"/>
+</p>
 
 The application follows a **three-tier architecture**:
 
