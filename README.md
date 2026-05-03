@@ -1,10 +1,6 @@
 # EduPlanner – Full Stack Task Management System
 
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
-![Render](https://img.shields.io/badge/Backend-Render-purple)
+
 
 ---
 
