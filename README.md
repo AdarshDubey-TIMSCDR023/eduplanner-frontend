@@ -1,6 +1,10 @@
 # EduPlanner – Full Stack Task Management System
 
-
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
+![Render](https://img.shields.io/badge/Backend-Render-purple)
 
 ---
 
@@ -14,15 +18,7 @@ The system enables real-time task operations including creation, updating, delet
 
 ## System Architecture
 
-![Image](https://images.openai.com/static-rsc-4/nQGpJ2aqIDYU269ajwp2uzS9ihVxIOI1_MimJeTFd9aNkcGrmbQ72hHKtjoMNyDHfybTuY-Zqlh-5N8yJdch7r9lkTWzk9X7uRj7F7My4XcS_WErhzaN0difP7bHgdRjE2dhnKcS0M0T1VbSVQDzR6BwYngsAbuwmKjkcn8w44UhQVIpbMf8j8Quw03AOE2B?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/ooiClv7uUcU3JkeYkQWibDBpvpHF3rWPUL0Avb9wPDw5EKdqUZvTsOeZZKr6Ow4ZzYKbJwjRnNnI4STySVLENOjlF1CzXPf0NxyTL1zt2TFB75O2MRJWVaht0176pGjFXdLl16sHY_E-bpOQcEfhZEM7p4fJl5ttLcXywbPXy0gnVcLgONpDfY9eKJU2mUMi?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/EEHZA4J6_Kqwd-53GcLXMOTlfUI2Rg3rvLWvkW-DO_6XdSymQTaSAtJdzU-zAH4zhVldA6NP34EzxsnIQrBp_ZJ023aXqXUzjCAr_DIiiF-mLau6CsnsRfzyKaMuTM_otw6CRUc0PBwPu36D74CnDyxTXp9w1qCBgpOsFK8P39XLtAnNl_JSE3CSv8f79zla?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/AiPsM6FaU0tUDYf5x4uL0lRPJ-lcmHqcV5iC5Su73PYlfbv64rTVrV6njeYVkD2JBXCHETGmOlvsBwzpAOrR3ty5itFMA-lSSkXqTwthOl8GWq7egriTPkaS5S8R1ivuqbn5olmpzTejfzUCMze2JxXcp6z6DxJsJwg-e7_9luTIyDVIcJyh1lQHWmRL41fx?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/zMEDAL-BqwsmiU495ucRYOXT1Ws7_L185BrlaFJ3kG4iinO4jUC4nosXtub_uxly5G4FcOM-jXGI6gSeDQ0sTreNoJ9tILDKW2mDkvoCroT8uQ40jp31jsiqvM5zSwSSGT7DNbhk5xKEtNWvn48Py68XVR5b7HSLPLkNpaWzFALJLjAnCy8Bj-qENkSZ8--m?purpose=fullsize)
 
 The application follows a **three-tier architecture**:
 
@@ -195,7 +191,7 @@ Add screenshots here for better presentation:
 
 Adarsh Dubey
 Master of Computer Application (MCA)
-TIMSCDR|University of Mumbai
+University of Mumbai
 
 ---
 
